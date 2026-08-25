@@ -1,0 +1,200 @@
+[
+  {
+    "ip:port": "171.244.44.252:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "title": "METFONE FREE VN FAST",
+    "country": "Vietnam",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=none&encryption=none&host=vnvipv2ray.anajakvpn.filegear-sg.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20METFONE%20FREE%20VIP"
+  },
+  {
+    "ip:port": "171.244.44.252:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "title": "METFONE MLBB VN FAST",
+    "country": "Vietnam",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=vnvipv2ray.anajakvpn.filegear-sg.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20METFONE%20MLBB%20VIP"
+  },
+  {
+    "ip:port": "171.244.44.252:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "title": "SMART MLBB FAST VN",
+    "country": "Vietnam",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@vnvipv2ray.anajakvpn.filegear-sg.me:80?path=%2F&security=none&encryption=none&host=m.mobilelegends.com&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20SMART%20MLBB%20VIP"
+  },
+  {
+    "ip:port": "171.244.44.252:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "title": "SMART SP FAST VN",
+    "country": "Vietnam",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@vnvipv2ray.anajakvpn.filegear-sg.me:80?path=%2F&security=none&encryption=none&host=blog.clova.line.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20SMART%20SP%20VIP"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "METFONE FREE FAST LOW PING",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@38.54.5.37:80?encryption=none&security=none&type=ws&host=khgamingvip.b-cdn.net&path=%2F#METFONE%20KH%20LOW%20MS%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "KHMER METFONE FREE FAST",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=none&encryption=none&host=khnewvip.anajakvpn.filegear-sg.me&type=ws#METFONE%20KH%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "KHMER METFONE MLBB",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=&encryption=none&host=khnewvip.anajakvpn.filegear-sg.me&type=ws#METFONE%20KH%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "KHMER SMART MLBB",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@khvipfast.anajakvpn.filegear-sg.me:80?path=%2F&security=none&encryption=none&host=m.mobilelegends.com&type=ws#KH%20SMART%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "KHMER SMART SP",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@khnewvip.anajakvpn.filegear-sg.me:80?path=%2F&security=&encryption=none&host=blog.clova.line.me&type=ws#KH%20SMART%20SP%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "171.244.44.252:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "title": "CELLCARD FREE VN",
+    "country": "Vietnam",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.1.51:80?encryption=none&security=none&type=ws&host=vnvipv2ray.anajakvpn.filegear-sg.me&path=%2F#VN%20%F0%9F%87%BB%F0%9F%87%B3%20CELLCARD%20FREE%20VIP"
+  },
+  {
+    "ip:port": "36.37.133.243:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
+    "title": "CELLCARD FREE KH - 01",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.1.51:80?path=%2F&security=none&encryption=none&host=khnewvip.anajakvpn.filegear-sg.me&type=ws#CELLCARD%20KH%20FREE%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+  },
+  {
+    "ip:port": "94.237.74.173:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15990/15990320.png",
+    "title": "METFONE FREE MLBB SG UP",
+    "country": "Singapore",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=&encryption=none&host=sgupcloud.anajakvpn.filegear-sg.me&type=ws#SG%20%F0%9F%87%B8%F0%9F%87%AC%20VIP%20UPCLOUD%20METFONE%20FREE"
+  },
+  {
+    "ip:port": "94.237.74.173:80",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363064.png",
+    "title": "SG METFONE FREE FAST",
+    "country": "Singapore",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=none&encryption=none&host=sgvipnew.anajakvpn.filegear-sg.me&type=ws#SG%20%F0%9F%87%B8%F0%9F%87%AC%20METFONE%20FREE%20VIP"
+  },
+  {
+    "ip:port": "103.54.56.16:80",
+    "flag": "https://cdn-icons-png.flaticon.com/512/14978/14978478.png",
+    "title": "Metfone MLBB US",
+    "country": "United States",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://36be2977-d01e-4786-ab64-b37462d53686@104.16.125.32:80?path=%2Fvipusa&security=none&encryption=none&host=usanewvip.anajakvpn.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20MLBB%20VIP"
+  },
+  {
+    "ip:port": "103.54.56.16:80",
+    "flag": "https://cdn-icons-png.flaticon.com/512/14978/14978478.png",
+    "title": "Metfone FREE US",
+    "country": "United States",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://36be2977-d01e-4786-ab64-b37462d53686@172.64.151.167:80?path=%2Fvipusa&security=&encryption=none&host=usanewvip.anajakvpnvip.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20FREE%20VIP"
+  },
+  {
+    "ip:port": "",
+    "flag": "https://billzone.ababank.com/images/landing/merchant/smart.png",
+    "title": "SMART FREE - KH 1",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "udp",
+    "ip_udp": "36.37.133.243",
+    "udp_obfs": "anajakudp",
+    "udp_auth": "anajakudp",
+    "uplimit": "5",
+    "dowlimit": "1",
+    "retry": "3",
+    "rc_win": "196608"
+  },
+  {
+    "ip:port": "",
+    "flag": "https://billzone.ababank.com/images/landing/merchant/smart.png",
+    "title": "SMART FREE 2MB",
+    "country": "Cambodia",
+    "isPremium": true,
+    "protocol": "udp",
+    "ip_udp": "36.37.133.243",
+    "udp_obfs": "anajakudp",
+    "udp_auth": "anajakudp",
+    "uplimit": "5",
+    "dowlimit": "2",
+    "retry": "3",
+    "rc_win": "196608"
+  },
+  {
+    "ip:port": "",
+    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363064.png",
+    "title": "SMART FREE - SG 01",
+    "country": "Singapore",
+    "isPremium": true,
+    "protocol": "udp",
+    "ip_udp": "45.144.167.158",
+    "udp_obfs": "agnudp",
+    "udp_auth": "tokenvpn5:tokenvpn5",
+    "uplimit": "10",
+    "dowlimit": "5",
+    "retry": "5",
+    "rc_win": "196608"
+  },
+  {
+    "ip:port": "43.228.85.95:80",
+    "flag": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
+    "title": "METFONE MLBB TH - 01",
+    "country": "Thailand",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.16.125.32:80?path=%2F&security=&encryption=none&host=thaivip.anajakvpn.filegear-sg.me&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20MLBB"
+  },
+  {
+    "ip:port": "43.228.85.95:80",
+    "flag": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
+    "title": "METFONE FREE TH - 01",
+    "country": "Thailand",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.18.36.89:80?path=%2F&security=none&encryption=none&host=thaivip.anajakvpn.filegear-sg.me&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE"
+  }
+]

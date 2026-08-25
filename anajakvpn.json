@@ -1,0 +1,11 @@
+[
+  {
+    "ip:port": "94.72.100.161:80:80",
+    "flag": "https://billzone.ababank.com/images/landing/merchant/metfone.png",
+    "title": "METFONE - FREE US",
+    "country": "United Kingdom",
+    "isPremium": false,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@104.18.36.89:443?encryption=none&security=tls&sni=zero.csmaster.ggff.net&fp=chrome&type=ws&host=zero.csmaster.ggff.net&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "versionCode": 9,
+  "versionName": "1.9.0",
+  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/app-release.apk",
+  "whatsNew": "- Fixed UDP\\n-Update Ui\\n-ADD LANGUAGE KHMER 🇰🇭",
+  "mandatory": true
+}

@@ -1,0 +1,331 @@
+{
+  "notifications": [
+    {
+      "title": "Metfone MLBB",
+      "message": "សម្រាប់សេវាកម្ម MLBB នេះដើរលឿនជាង FREE\n*1514*100#  mlbb × tiktok  70សេន",
+      "date": "2026-02-12"
+    }
+  ],
+  "validCodes": [
+    {
+      "code": "@THARAK111",
+      "expiry_date": "2026-10-06"
+    },
+    {
+      "code": "BUNYONGYEAB",
+      "expiry_date": "2026-10-23"
+    },
+    {
+      "code": "ABTILHAFIS",
+      "expiry_date": "2026-10-20"
+    },
+    {
+      "code": "VIPJ4JJH3",
+      "expiry_date": "2026-08-26"
+    },
+    {
+      "code": "VIPWY9J3J",
+      "expiry_date": "2026-09-02"
+    },
+    {
+      "code": "VIPZZZXZH",
+      "expiry_date": "2026-08-28"
+    },
+    {
+      "code": "SKYBLACK",
+      "expiry_date": "2027-06-21"
+    },
+    {
+      "code": "VIPB4Y9MO",
+      "expiry_date": "2026-08-30"
+    },
+    {
+      "code": "EDWIN",
+      "expiry_date": "2027-01-31"
+    },
+    {
+      "code": "VIP7KBYCN",
+      "expiry_date": "2026-09-02"
+    },
+    {
+      "code": "VIPNDZLLK",
+      "expiry_date": "2026-09-03"
+    },
+    {
+      "code": "VIREAK21",
+      "expiry_date": "2027-08-03"
+    },
+    {
+      "code": "VIPK9WN6Z",
+      "expiry_date": "2026-09-05"
+    },
+    {
+      "code": "SAMEAN",
+      "expiry_date": "2026-09-05"
+    },
+    {
+      "code": "SAMTIN",
+      "expiry_date": "2026-11-04"
+    },
+    {
+      "code": "VIPEG984Z",
+      "expiry_date": "2026-09-07"
+    },
+    {
+      "code": "@LENGSOPHANITH",
+      "expiry_date": "2026-10-08"
+    },
+    {
+      "code": "VIPE4G70F",
+      "expiry_date": "2026-09-08"
+    },
+    {
+      "code": "VIP90GLXD",
+      "expiry_date": "2026-09-10"
+    },
+    {
+      "code": "VIPNONAME",
+      "expiry_date": "2026-12-10"
+    },
+    {
+      "code": "VIP3MONTH",
+      "expiry_date": "2026-11-09"
+    },
+    {
+      "code": "VIPOKQBFR",
+      "expiry_date": "2026-09-12"
+    },
+    {
+      "code": "VIPS6DWMU",
+      "expiry_date": "2026-09-13"
+    },
+    {
+      "code": "VIPSST85K",
+      "expiry_date": "2026-09-15"
+    },
+    {
+      "code": "VIPSST86K",
+      "expiry_date": "2026-09-15"
+    },
+    {
+      "code": "VIP3MONTH2",
+      "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "VIP2MONTH",
+      "expiry_date": "2026-10-15"
+    },
+    {
+      "code": "VIPENY8IE",
+      "expiry_date": "2026-09-18"
+    },
+    {
+      "code": "VIP5780OC",
+      "expiry_date": "2026-09-19"
+    },
+    {
+      "code": "VIP466ZZZ",
+      "expiry_date": "2026-09-21"
+    },
+    {
+      "code": "RITH1",
+      "expiry_date": "2026-11-19"
+    },
+    {
+      "code": "VIPNZUKCX",
+      "expiry_date": "2026-09-24"
+    },
+    {
+      "code": "VIPII77VL",
+      "expiry_date": "2026-09-26"
+    }
+  ],
+  "allServers": [
+    {
+      "title": "KH METFONE MLBB",
+      "type": "server",
+      "category": "metfone_mlbb",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
+      "iconColor": "#00ff00",
+      "ip": "36.37.133.243",
+      "countrycode": "kh",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#METFONE%20KH%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+    },
+    {
+      "title": "METFONE MLBB USA",
+      "type": "server",
+      "countrycode": "us",
+      "ip": "103.54.56.16",
+      "text": "vless://36be2977-d01e-4786-ab64-b37462d53686@104.16.125.32:80?path=%2Fvipusa&security=none&encryption=none&host=random-domain&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20MLBB%20VIP",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/us.png",
+      "category": "metfone_mlbb"
+    },
+    {
+      "title": "TH METFONE MLBB",
+      "type": "server",
+      "category": "metfone_mlbb",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
+      "ip": "43.228.85.95",
+      "countrycode": "th",
+      "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20MLBB"
+    },
+    {
+      "title": "METFONE FREE FAST KH",
+      "type": "server",
+      "countrycode": "kh",
+      "ip": "36.37.133.243",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#METFONE%20KH%20FREE%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
+      "category": "metfone_free"
+    },
+    {
+      "title": "METFONE FREE THAI",
+      "type": "server",
+      "countrycode": "th",
+      "ip": "43.228.85.95",
+      "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.18.36.89:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
+      "category": "metfone_free"
+    },
+    {
+      "title": "USA METFONE FREE",
+      "type": "server",
+      "countrycode": "us",
+      "ip": "103.54.56.16",
+      "text": "vless://36be2977-d01e-4786-ab64-b37462d53686@104.18.36.89:80?path=%2Fvipusa&security=none&encryption=none&host=random-domain&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20FREE%20VIP",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/us.png",
+      "category": "metfone_free"
+    },
+    {
+      "title": "KH MLBB SMART",
+      "type": "server",
+      "category": "smart_service",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
+      "ip": "36.37.133.243",
+      "countrycode": "kh",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@random-domain:80?path=%2F&security=none&encryption=none&host=m.mobilelegends.com&type=ws#KH%20SMART%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+    },
+    {
+      "title": "KH SP SMART",
+      "type": "server",
+      "countrycode": "kh",
+      "ip": "36.37.133.243",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@random-domain:80?path=%2F&security=none&encryption=none&host=blog.clova.line.me&type=ws#KH%20SMART%20SP%20FAST%20%F0%9F%87%B0%F0%9F%87%AD",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
+      "category": "smart_service"
+    },
+    {
+      "title": "CELLCARD FREE",
+      "type": "server",
+      "countrycode": "kh",
+      "ip": "36.37.133.243",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#CELLCARD%20KH%20FREE%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD",
+      "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
+      "category": "cellcard_free"
+    },
+    {
+      "title": "Anajak VPN",
+      "type": "app",
+      "url": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/app-release.apk",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icon.png",
+      "category": "smart_free"
+    },
+    {
+      "title": "VN METFONE MLBB",
+      "type": "server",
+      "countrycode": "vn",
+      "ip": "171.244.44.252",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20METFONE%20MLBB%20VIP",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "metfone_mlbb"
+    },
+    {
+      "title": "VN METFONE FREE",
+      "type": "server",
+      "countrycode": "vn",
+      "ip": "171.244.44.252",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.36.89:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20METFONE%20FREE%20VIP",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "metfone_free"
+    },
+    {
+      "title": "VN CELLCARD FREE",
+      "type": "server",
+      "countrycode": "vn",
+      "ip": "171.244.44.252",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@cdn.yellowmessenger.com:80?encryption=none&security=none&type=ws&host=random-domain&path=%2F#VN%20%F0%9F%87%BB%F0%9F%87%B3%20CELLCARD%20VIP",
+      "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+      "category": "cellcard_free"
+    }
+  ],
+  "categoryTitles": {
+    "metfone_mlbb": "METFONE MLBB",
+    "metfone_free": "METFONE FREE",
+    "smart_service": "SMART សេវាកម្ម",
+    "smart_free": "SMART FREE",
+    "cellcard_free": "CELLCARD FREE"
+  },
+  "mainMenuItems": [
+    {
+      "title": "NOTIFICATIONS",
+      "id": "notifications",
+      "icon": "fas fa-bell",
+      "iconColor": "#ff0000",
+      "onclick": "showNotifications()",
+      "badge": true
+    },
+    {
+      "id": "apps",
+      "title": "App កម្មវិធី",
+      "icon": "fas fa-mobile-alt",
+      "iconBg": "bg-gradient-to-br from-purple-600 to-indigo-600",
+      "iconColor": "text-white",
+      "onclick": "showApps()",
+      "badge": false
+    },
+    {
+      "id": "howto",
+      "title": "របៀបប្រើប្រាស់",
+      "icon": "fas fa-question-circle",
+      "iconBg": "bg-indigo-900/20",
+      "iconColor": "text-indigo-400",
+      "onclick": "showHowToUse()",
+      "badge": false
+    },
+    {
+      "title": "METFONE MLBB",
+      "id": "metfone_mlbb",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icons/metfone.png",
+      "onclick": "showServers('metfone_mlbb')",
+      "badge": false
+    },
+    {
+      "title": "METFONE FREE",
+      "id": "metfone_free",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icons/metfone.png",
+      "onclick": "showServers('metfone_free')",
+      "badge": false
+    },
+    {
+      "title": "SMART សេវាកម្ម",
+      "id": "smart_service",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icons/smart.jpeg",
+      "onclick": "showServers('smart_service')",
+      "badge": true
+    },
+    {
+      "title": "SMART FREE",
+      "id": "smart_free",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icons/smart.jpeg",
+      "onclick": "showServers('smart_free')",
+      "badge": false
+    },
+    {
+      "title": "CELLCARD FREE",
+      "id": "cel_free",
+      "icon": "https://anajakvpnvip.filegear-sg.me/icons/cellcard.png",
+      "onclick": "showServers('cellcard_free')",
+      "badge": false
+    }
+  ]
+}
