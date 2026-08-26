@@ -182,19 +182,19 @@
   {
     "ip:port": "43.228.85.95:80",
     "flag": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
-    "title": "METFONE MLBB TH - 01",
-    "country": "Thailand",
-    "isPremium": true,
-    "protocol": "v2ray",
-    "v2ray_config": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.16.125.32:80?path=%2F&security=&encryption=none&host=thaivip.anajakvpn.filegear-sg.me&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20MLBB"
-  },
-  {
-    "ip:port": "43.228.85.95:80",
-    "flag": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
     "title": "METFONE FREE TH - 01",
     "country": "Thailand",
     "isPremium": true,
     "protocol": "v2ray",
     "v2ray_config": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.18.36.89:80?path=%2F&security=none&encryption=none&host=thaivip.anajakvpn.filegear-sg.me&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE"
+  },
+  {
+    "ip:port": "43.228.85.95:80",
+    "flag": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
+    "title": "METFONE MLBB TH - 01",
+    "country": "Thailand",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "v2ray_config": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.16.125.32:80?path=%2F&security=&encryption=none&host=thaivip.anajakvpn.filegear-sg.me&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20MLBB"
   }
 ]
