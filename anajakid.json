@@ -2,10 +2,5 @@
   "vipurl": "https://gitlab.com/api/v4/projects/81302787/repository/files/anajakvip.json/raw?ref=main",
   "freeurl": "https://gitlab.com/api/v4/projects/81302787/repository/files/anajakvip.json/raw?ref=main",
   "free_bandwidth_mb": 200,
-  "devices": [
-    {
-      "deviceId": "c352951b7c099589",
-      "expiry_date": "2026-08-25"
-    }
-  ]
+  "devices": []
 }
