@@ -1,1 +1,9 @@
-{"devices":[]}
+{
+  "devices": [
+    {
+      "deviceId": "c352951b7c099589",
+      "url": "https://raw.githubusercontent.com/anajakvpn-cloud/anajakvipcode/main/vipdata.json",
+      "expiry_date": "2026-12-31"
+    }
+  ]
+}
