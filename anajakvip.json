@@ -11,9 +11,9 @@
   {
     "ip:port": "171.244.44.252:80",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
-    "title": "METFONE MLBB VN FAST",
+    "title": "METFONE MLBB VN FAST SPEED",
     "country": "Vietnam",
-    "isPremium": true,
+    "isPremium": false,
     "protocol": "v2ray",
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=vnvipv2ray.anajakvpn.filegear-sg.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20METFONE%20MLBB%20VIP"
   },
