@@ -162,7 +162,7 @@
     "uplimit": "5",
     "dowlimit": "5",
     "retry": "5",
-    "rc_win": "16384"
+    "rc_win": "163840"
   },
   {
     "ip:port": "",
