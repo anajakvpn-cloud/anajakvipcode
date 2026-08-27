@@ -152,7 +152,7 @@
   {
     "ip:port": "",
     "flag": "https://billzone.ababank.com/images/landing/merchant/smart.png",
-    "title": "SMART FREE 5MB",
+    "title": "SMART FREE 3MB",
     "country": "Cambodia",
     "isPremium": true,
     "protocol": "udp",
@@ -160,9 +160,9 @@
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
     "uplimit": "5",
-    "dowlimit": "5",
+    "dowlimit": "3",
     "retry": "5",
-    "rc_win": "163840"
+    "rc_win": "100000"
   },
   {
     "ip:port": "",
