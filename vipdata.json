@@ -219,7 +219,7 @@
       "type": "server",
       "countrycode": "kh",
       "ip": "175.100.126.182",
-      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@cdn.yellowmessenger.com:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#CELLCARD%20KH%20FREE%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.6.105:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#CELLCARD%20KH%20FREE%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD",
       "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
       "category": "cellcard_free"
     },
