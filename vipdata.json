@@ -253,7 +253,7 @@
       "type": "server",
       "countrycode": "vn",
       "ip": "171.244.44.250",
-      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@cdn.yellowmessenger.com:80?encryption=none&security=none&type=ws&host=random-domain&path=%2F#VN%20%F0%9F%87%BB%F0%9F%87%B3%20CELLCARD%20VIP",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.18.6.105:80?encryption=none&security=none&type=ws&host=random-domain&path=%2F#VN%20%F0%9F%87%BB%F0%9F%87%B3%20CELLCARD%20VIP",
       "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
       "category": "cellcard_free"
     }
