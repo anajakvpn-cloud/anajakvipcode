@@ -171,15 +171,6 @@
       "category": "metfone_free"
     },
     {
-      "title": "USA METFONE FREE",
-      "type": "server",
-      "countrycode": "us",
-      "ip": "203.161.39.77",
-      "text": "vless://36be2977-d01e-4786-ab64-b37462d53686@104.18.36.89:80?path=%2Fvipusa&security=none&encryption=none&host=random-domain&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20FREE%20VIP",
-      "icon": "https://anajakvpnvip.filegear-sg.me/flag/us.png",
-      "category": "metfone_free"
-    },
-    {
       "title": "KH MLBB SMART",
       "type": "server",
       "category": "smart_service",
