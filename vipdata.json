@@ -144,15 +144,6 @@
       "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#METFONE%20KH%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
     },
     {
-      "title": "METFONE MLBB USA",
-      "type": "server",
-      "countrycode": "us",
-      "ip": "203.161.39.77",
-      "text": "vless://36be2977-d01e-4786-ab64-b37462d53686@104.16.125.32:80?path=%2Fvipusa&security=none&encryption=none&host=random-domain&type=ws#%F0%9F%87%BA%F0%9F%87%B2USA%20METFONE%20MLBB%20VIP",
-      "icon": "https://anajakvpnvip.filegear-sg.me/flag/us.png",
-      "category": "metfone_mlbb"
-    },
-    {
       "title": "TH METFONE MLBB",
       "type": "server",
       "category": "metfone_mlbb",
