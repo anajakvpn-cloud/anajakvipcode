@@ -1,5 +1,5 @@
 {
-  "vipurl": "https://gitlab.com/api/v4/projects/81302787/repository/files/anajakvip.json/raw?ref=main",
-  "freeurl": "https://gitlab.com/api/v4/projects/81302787/repository/files/anajakvip.json/raw?ref=main",
+  "vipurl": "https://raw.githubusercontent.com/anajakvpn-cloud/anajakvipcode/refs/heads/main/anajakvip.json",
+  "freeurl": "https://raw.githubusercontent.com/anajakvpn-cloud/anajakvipcode/refs/heads/main/anajakvip.json",
   "free_bandwidth_mb": 200
 }
