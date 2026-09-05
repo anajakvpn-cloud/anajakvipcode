@@ -122,6 +122,10 @@
     {
       "code": "VIPZS1SV8",
       "expiry_date": "2026-10-05"
+    },
+    {
+      "code": "SAMEAN",
+      "expiry_date": "2026-10-05"
     }
   ],
   "allServers": [
