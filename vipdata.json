@@ -126,6 +126,10 @@
     {
       "code": "SAMEAN",
       "expiry_date": "2026-10-05"
+    },
+    {
+      "code": "VIPDWKMF7",
+      "expiry_date": "2026-10-07"
     }
   ],
   "allServers": [
