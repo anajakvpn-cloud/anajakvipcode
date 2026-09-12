@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.1.0",
-  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/app-release.apk",
-  "whatsNew": "- Fixed UDP\\n-Update Ui\\n-ADD LANGUAGE KHMER 🇰🇭",
+  "versionCode": 10,
+  "versionName": "2.0.0",
+  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_2.0.0.apk?ref_type=heads",
+  "whatsNew": "- Fixed UDP\\n-Update Ui\\n-Add Language English KHMER\\n-Add Data Usage\\n-Smooth Loading App",
   "mandatory": true
 }
