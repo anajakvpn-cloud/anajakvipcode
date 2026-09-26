@@ -158,7 +158,7 @@
       "type": "server",
       "countrycode": "th",
       "ip": "206.237.98.79",
-      "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.18.36.89:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE",
+      "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@172.64.151.167:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE",
       "icon": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
       "category": "metfone_free"
     },
