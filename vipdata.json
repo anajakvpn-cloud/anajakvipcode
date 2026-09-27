@@ -122,6 +122,10 @@
     {
       "code": "VIP33MMM",
       "expiry_date": "2026-12-25"
+    },
+    {
+      "code": "VVVIP3MMM",
+      "expiry_date": "2026-12-27"
     }
   ],
   "allServers": [
