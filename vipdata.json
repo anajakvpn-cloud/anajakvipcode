@@ -134,6 +134,10 @@
     {
       "code": "MRFAAAA",
       "expiry_date": "2026-11-28"
+    },
+    {
+      "code": "ANAJAKVIPXZXZ",
+      "expiry_date": "2027-06-30"
     }
   ],
   "allServers": [
