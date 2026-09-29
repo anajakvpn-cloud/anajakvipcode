@@ -155,7 +155,7 @@
       "title": "TH METFONE MLBB",
       "type": "server",
       "countrycode": "th",
-      "ip": "206.237.98.79",
+      "ip": "103.49.238.81",
       "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#THAI%20%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20MLBB",
       "icon": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
       "category": "metfone_mlbb"
@@ -173,7 +173,7 @@
       "title": "METFONE FREE THAI",
       "type": "server",
       "countrycode": "th",
-      "ip": "206.237.98.79",
+      "ip": "103.49.238.81",
       "text": "vless://1d3af906-a7ee-4779-842e-219ab17198bf@172.64.151.167:443?encryption=none&security=tls&sni=random-domain&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B9%F0%9F%87%AD%20METFONE%20FREE%20NEW%20VIP",
       "icon": "https://anajakvpnvip.filegear-sg.me/flag/th.png",
       "category": "metfone_free"
