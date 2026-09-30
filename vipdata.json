@@ -144,12 +144,12 @@
     {
       "title": "KH METFONE MLBB",
       "type": "server",
-      "category": "metfone_mlbb",
+      "countrycode": "kh",
+      "ip": "175.100.126.184",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:443?encryption=none&security=tls&sni=random-domain&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B0%F0%9F%87%ADMETFONE%20MLBB%20VIP%20NEW",
       "icon": "https://anajakvpnvip.filegear-sg.me/flag/kh.png",
       "iconColor": "#00ff00",
-      "ip": "175.100.126.184",
-      "countrycode": "kh",
-      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@104.16.125.32:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#METFONE%20KH%20MLBB%20FAST%20VIP%20%F0%9F%87%B0%F0%9F%87%AD"
+      "category": "metfone_mlbb"
     },
     {
       "title": "METFONE FREE FAST KH",
