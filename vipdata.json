@@ -150,6 +150,10 @@
     {
       "code": "VIPXCNZ1J",
       "expiry_date": "2026-11-26"
+    },
+    {
+      "code": "VIP5MONTH",
+      "expiry_date": "2027-03-09"
     }
   ],
   "allServers": [
