@@ -190,6 +190,10 @@
     {
       "code": "VIPHXHXZ",
       "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "TEST",
+      "expiry_date": "2026-11-15"
     }
   ],
   "allServers": [
