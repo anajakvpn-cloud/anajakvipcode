@@ -178,6 +178,10 @@
     {
       "code": "VIPXXXUE",
       "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "VIPXNNXZ",
+      "expiry_date": "2026-11-15"
     }
   ],
   "allServers": [
