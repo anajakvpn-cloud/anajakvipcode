@@ -186,6 +186,10 @@
     {
       "code": "VIPNEWMEV",
       "expiry_date": "2026-11-14"
+    },
+    {
+      "code": "VIPHXHXZ",
+      "expiry_date": "2026-11-15"
     }
   ],
   "allServers": [
