@@ -194,6 +194,10 @@
     {
       "code": "TEST",
       "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "VIPSVVSVIS",
+      "expiry_date": "2026-11-15"
     }
   ],
   "allServers": [
