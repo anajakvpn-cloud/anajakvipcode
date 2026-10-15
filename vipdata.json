@@ -198,6 +198,10 @@
     {
       "code": "VIPZWIQ2S",
       "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "VIPZWIQ22",
+      "expiry_date": "2026-11-15"
     }
   ],
   "allServers": [
