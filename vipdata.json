@@ -206,6 +206,10 @@
     {
       "code": "VIPXZZZZU",
       "expiry_date": "2026-11-15"
+    },
+    {
+      "code": "VIPDG90MM",
+      "expiry_date": "2026-11-17"
     }
   ],
   "allServers": [
