@@ -275,7 +275,7 @@
       "type": "server",
       "countrycode": "vn",
       "ip": "103.49.130.51",
-      "text": "vless://50ea64d3-24db-404e-a021-74a39a6f8fd0@104.16.125.32:443?encryption=none&security=tls&sni=random-domain&type=xhttp&mode=auto&path=%2F#%F0%9F%87%BB%F0%9F%87%B3METFONE%20MLBB%20VIP%20NEW",
+      "text": "vless://50ea64d3-24db-404e-a021-74a39a6f8fd0@104.16.125.32:443?encryption=none&security=tls&sni=random-domain&alpn=h2&type=xhttp&mode=packet-up&host=random-domain&path=%2F#%F0%9F%87%BB%F0%9F%87%B3METFONE%20MLBB%20VIP%20NEW",
       "icon": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
       "category": "metfone_mlbb"
     },
