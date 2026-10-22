@@ -218,6 +218,10 @@
     {
       "code": "VIP96ME66",
       "expiry_date": "2026-11-22"
+    },
+    {
+      "code": "VIPHUHU",
+      "expiry_date": "2026-11-22"
     }
   ],
   "allServers": [
