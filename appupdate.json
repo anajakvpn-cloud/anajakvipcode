@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.3.0",
-  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_2.3.0.apk?ref_type=heads",
-  "whatsNew": "-Added DTUN\n-Fix V2RAY\n-Smart Free",
+  "versionCode": 19,
+  "versionName": "2.6.3",
+  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_2.6.3.apk",
+  "whatsNew": "- AnajakVPN_2.6.3 📥\n- Fixed Bug 🐛\n- Fix Ping Ms checker\n- Fast Connect VPN\n- Support smart free",
   "mandatory": true
 }
