@@ -1,6 +1,6 @@
 [
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "METFONE FREE VN FAST",
     "country": "Vietnam",
@@ -9,7 +9,7 @@
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:443?encryption=none&security=tls&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&alpn=h2&type=xhttp&mode=packet-up&path=%2F#%F0%9F%87%BB%F0%9F%87%B3VN%20METFONE%20FREE%20VIP"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "VN WS METFONE FREE",
     "country": "Vietnam",
@@ -18,7 +18,7 @@
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:80?path=%2F&security=none&encryption=none&host=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20WS%20MET%20VIP"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "METFONE MLBB VN FAST",
     "country": "Vietnam",
@@ -27,7 +27,7 @@
     "v2ray_config": "vless://50ea64d3-24db-404e-a021-74a39a6f8fd0@104.16.125.32:443?encryption=none&security=tls&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&alpn=h2&type=xhttp&mode=packet-up&path=%2F#%F0%9F%87%BB%F0%9F%87%B3METFONE%20MLBB%20VIP%20NEW"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "SMART MLBB FAST VN",
     "country": "Vietnam",
@@ -36,7 +36,7 @@
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me:80?path=%2F&security=none&encryption=none&host=m.mobilelegends.com&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20SMART%20MLBB%20VIP"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "SMART SP FAST VN",
     "country": "Vietnam",
@@ -90,7 +90,7 @@
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@khanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me:80?path=%2F&security=&encryption=none&host=blog.clova.line.me&type=ws#KH%20SMART%20SP%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "CELLCARD FREE VN",
     "country": "Vietnam",
@@ -99,7 +99,7 @@
     "v2ray_config": "vless://50ea64d3-24db-404e-a021-74a39a6f8fd0@104.18.6.105:443?encryption=none&security=tls&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&alpn=h2&type=xhttp&mode=packet-up&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20CELLCARD%20FREE%20VIP%20NEW"
   },
   {
-    "ip:port": "171.244.44.252:443",
+    "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "title": "VN CELLCARD FREE WS",
     "country": "Vietnam",
@@ -310,12 +310,12 @@
     "protocol": "dnstt",
     "ip:port": "",
     "dnstt": {
-      "server": "vn.anajakvpn.filegear-sg.me",
+      "server": "vn2.anajakvpn.filegear-sg.me",
       "port": 22,
-      "dns_server": "vn.anajakvpn.filegear-sg.me",
-      "secondary_dns_server": "vn.anajakvpn.filegear-sg.me",
-      "tunnel_domain": "fastvn.anajakvpn.filegear-sg.me",
-      "public_key": "09a0d50d669ff076957b2477d11ec8103cd154a0af1fd14f9bcb313451f57477",
+      "dns_server": "vn2.anajakvpn.filegear-sg.me",
+      "secondary_dns_server": "vn2.anajakvpn.filegear-sg.me",
+      "tunnel_domain": "vnfast2.anajakvpn.filegear-sg.me",
+      "public_key": "679d690c408ca855871b6ce9221b52795e115c53202bd2e55d18fab9fe2f035d",
       "transport": "vaydns",
       "vaydns": {
         "type": "ssh",
