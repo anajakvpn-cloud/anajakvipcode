@@ -242,6 +242,10 @@
     {
       "code": "VIP22MMM",
       "expiry_date": "2026-12-30"
+    },
+    {
+      "code": "VIPTIXTIX",
+      "expiry_date": "2026-11-30"
     }
   ],
   "allServers": [
