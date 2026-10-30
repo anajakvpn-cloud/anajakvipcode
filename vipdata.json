@@ -353,11 +353,11 @@
       "category": "cellcard_free"
     },
     {
-      "title": "KH METFONE FREE WS LOW MS",
+      "title": "KH METFONE FREE LOW MS",
       "type": "server",
       "countrycode": "kh",
       "ip": "175.100.126.184",
-      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:80?path=%2F&security=none&encryption=none&host=random-domain&type=ws#%F0%9F%87%B0%F0%9F%87%ADKH%20METFONE%20WS%20LOW%20MS",
+      "text": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=random-domain#%F0%9F%87%B0%F0%9F%87%ADKH%20METFONE%20FREE%20LOW%20MS",
       "icon": "https://cdn-icons-png.flaticon.com/128/8451/8451357.png",
       "category": "metfone_free"
     }
