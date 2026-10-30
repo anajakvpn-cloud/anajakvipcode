@@ -11,11 +11,11 @@
   {
     "ip:port": "210.211.105.252:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
-    "title": "VN WS METFONE FREE",
+    "title": "VN METFONE FREE GTR",
     "country": "Vietnam",
     "isPremium": true,
     "protocol": "v2ray",
-    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:80?path=%2F&security=none&encryption=none&host=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&type=ws#VN%20%F0%9F%87%BB%F0%9F%87%B3%20WS%20MET%20VIP"
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me#%F0%9F%87%BB%F0%9F%87%B3VN%20METFONE%20FREE%20GTR"
   },
   {
     "ip:port": "210.211.105.252:443",
@@ -56,11 +56,11 @@
   {
     "ip:port": "175.100.126.184:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
-    "title": "KH METFONE FREE WS",
+    "title": "KH METFONE FREE GTR",
     "country": "Cambodia",
     "isPremium": true,
     "protocol": "v2ray",
-    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:80?encryption=none&security=none&type=ws&host=khanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&path=%2F&headers=%7B%0A%20%20%22Host%22%3A%20%22khanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me%22%0A%7D#KH%20METFONE%20FREE%20FAST%20%F0%9F%87%B0%F0%9F%87%AD"
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=khanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%ADKH%20METFONE%20FREE%20LOW%20MS"
   },
   {
     "ip:port": "175.100.126.184:443",
