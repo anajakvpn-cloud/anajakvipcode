@@ -234,6 +234,10 @@
     {
       "code": "VIP29XZXZZ",
       "expiry_date": "2026-11-30"
+    },
+    {
+      "code": "VIPSKY2MM",
+      "expiry_date": "2026-12-30"
     }
   ],
   "allServers": [
