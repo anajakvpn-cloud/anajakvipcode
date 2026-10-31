@@ -6,7 +6,7 @@
     "country": "Vietnam",
     "isPremium": true,
     "protocol": "v2ray",
-    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:443?encryption=none&security=tls&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&alpn=h2&type=xhttp&mode=packet-up&path=%2F#%F0%9F%87%BB%F0%9F%87%B3VN%20METFONE%20FREE%20VIP"
+    "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=1&type=xhttp&allowInsecure=1&sni=vnanajakvipxzxz20270630.anajakvpnvip.filegear-sg.me#%F0%9F%87%BB%F0%9F%87%B3VN%20METFONE%20FREE%20VIP"
   },
   {
     "ip:port": "210.211.105.252:443",
