@@ -211,7 +211,7 @@
       "dns_server": "cottonkh.anajakvpn.filegear-sg.me",
       "secondary_dns_server": "cottonkh.anajakvpn.filegear-sg.me",
       "tunnel_domain": "cotkh.anajakvpn.filegear-sg.me",
-      "public_key": "b877946f3a8c728b",
+      "public_key": "32298a3da8f1a04a",
       "transport": "cottendns",
       "cottendns": {
         "config_preset": "speed",
