@@ -159,11 +159,11 @@
     "country": "Cambodia",
     "isPremium": true,
     "protocol": "udp",
-    "ip_udp": "175.100.126.177",
+    "ip_udp": "cottonkh.anajakvpn.filegear-sg.me",
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
     "uplimit": "5",
-    "dowlimit": "3",
+    "dowlimit": "1",
     "retry": "3",
     "rc_win": "196608"
   },
