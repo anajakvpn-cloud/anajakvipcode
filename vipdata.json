@@ -250,6 +250,10 @@
     {
       "code": "VIPPKKDOR",
       "expiry_date": "2026-12-01"
+    },
+    {
+      "code": "VIPHEQLIX",
+      "expiry_date": "2026-12-02"
     }
   ],
   "allServers": [
