@@ -254,6 +254,10 @@
     {
       "code": "VIPHEQLIX",
       "expiry_date": "2026-12-02"
+    },
+    {
+      "code": "VIP3MMMM",
+      "expiry_date": "2027-01-02"
     }
   ],
   "allServers": [
