@@ -270,6 +270,10 @@
     {
       "code": "VIPZYZYZY",
       "expiry_date": "2026-12-03"
+    },
+    {
+      "code": "VIPROMLY",
+      "expiry_date": "2027-02-03"
     }
   ],
   "allServers": [
