@@ -247,63 +247,6 @@
     "ip:port": ""
   },
   {
-    "title": "INDO SMART NEW SSH",
-    "country": "Indonesia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/6157/6157721.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "indo.anajakvpn.filegear-sg.me",
-      "dns_server": "indo.anajakvpn.filegear-sg.me",
-      "secondary_dns_server": "indo.anajakvpn.filegear-sg.me",
-      "tunnel_domain": "fastsshindo.anajakvpn.filegear-sg.me",
-      "public_key": "740680337876d850f4b1fb189237226b57dc64208f0b56357fb64014a7f1497a",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "ssh",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "fanout",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      },
-      "ssh": {
-        "host": "127.0.0.1",
-        "port": 22,
-        "username": "heng",
-        "password": "KzttZvMQnytFwsPz9!",
-        "private_key": ""
-      }
-    }
-  },
-  {
-    "title": "INDO SMART FREE",
-    "country": "Indonesia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/6157/6157721.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "indo.anajakvpn.filegear-sg.me",
-      "dns_server": "indo.anajakvpn.filegear-sg.me",
-      "secondary_dns_server": "indo.anajakvpn.filegear-sg.me",
-      "tunnel_domain": "fastindo.anajakvpn.filegear-sg.me",
-      "public_key": "49c01bc82ef5afa0fe8fff21ffd5e63de2483ac181bf7ececab445d5297b1f4e",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "socks5",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "fanout",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      }
-    }
-  },
-  {
     "title": "VN SMART FREE SSH",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
@@ -311,28 +254,36 @@
     "protocol": "dnstt",
     "ip:port": "",
     "dnstt": {
-      "server": "vn2.anajakvpn.filegear-sg.me",
+      "server": "vnfast.anajakvip.shop",
       "port": 22,
-      "dns_server": "vn2.anajakvpn.filegear-sg.me",
-      "secondary_dns_server": "vn2.anajakvpn.filegear-sg.me",
-      "tunnel_domain": "vnfast2.anajakvpn.filegear-sg.me",
-      "public_key": "679d690c408ca855871b6ce9221b52795e115c53202bd2e55d18fab9fe2f035d",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "ssh",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "fanout",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      },
-      "ssh": {
-        "host": "127.0.0.1",
-        "port": 22,
-        "username": "heng",
-        "password": "River!Cobalt7Moon#42",
-        "private_key": ""
+      "dns_server": "vnfast.anajakvip.shop",
+      "secondary_dns_server": "vnfast.anajakvip.shop",
+      "tunnel_domain": "nsvn.anajakvip.shop",
+      "public_key": "7e3543768f4be4a3",
+      "transport": "cottendns",
+      "cottendns": {
+        "encryption_method": 1,
+        "config_preset": "speed",
+        "tunnel_mode": "cottenmax",
+        "transport_mode": "tcp",
+        "delivery_mode": "preset",
+        "qname_mode": "preset",
+        "ip_mode": "preset",
+        "query_rate_limit": "off",
+        "query_rate_scope": "total",
+        "timing_mask": "off",
+        "background_scan_parallelism": 1,
+        "resolver_doh_path": "/dns-query",
+        "max": {
+          "standby_domains": "",
+          "failover_after_ms": 3000,
+          "max_inflight": 256,
+          "max_path_window": 256,
+          "hold_ms": 500,
+          "fec_download_enabled": false,
+          "discovery_enabled": false,
+          "discovery_country": "vn"
+        }
       }
     }
   },
