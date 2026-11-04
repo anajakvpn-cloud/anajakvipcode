@@ -168,38 +168,6 @@
     "rc_win": "196608"
   },
   {
-    "title": "KH SMART FREE SSH",
-    "country": "Cambodia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "175.100.126.184",
-      "dns_server": "175.100.126.184",
-      "secondary_dns_server": "175.100.126.184",
-      "tunnel_domain": "fastkh.anajakvpn.filegear-sg.me",
-      "public_key": "e8d004af760cfa79911d9274168cc8c0e92042a1f20769c8ae36c2a278451138",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "ssh",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "roundrobin",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      },
-      "ssh": {
-        "host": "127.0.0.1",
-        "port": 22,
-        "username": "heng",
-        "password": "River!Cobalt7Moon#42",
-        "private_key": ""
-      }
-    }
-  },
-  {
     "title": "KH SMART FREE MAX",
     "country": "Cambodia",
     "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
@@ -247,7 +215,7 @@
     "ip:port": ""
   },
   {
-    "title": "VN SMART FREE SSH",
+    "title": "VN SMART FREE MAX",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "isPremium": true,
