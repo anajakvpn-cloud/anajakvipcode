@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "2.6.5",
-  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_2.6.5.apk",
-  "whatsNew": "- AnajakVPN_2.6.5 📥\n- Fixed Can't Connect",
+  "versionCode": 23,
+  "versionName": "3.0.0",
+  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_3.0.0.apk",
+  "whatsNew": "- Fix Auto Update Server📥\n- Ultra Connect",
   "mandatory": true
 }
