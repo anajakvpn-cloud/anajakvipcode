@@ -274,6 +274,10 @@
     {
       "code": "VIP4MMM",
       "expiry_date": "2027-03-04"
+    },
+    {
+      "code": "VIPZUSUUA",
+      "expiry_date": "2026-12-05"
     }
   ],
   "allServers": [
