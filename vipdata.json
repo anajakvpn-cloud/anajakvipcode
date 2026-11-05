@@ -278,6 +278,10 @@
     {
       "code": "VIPZUSUUA",
       "expiry_date": "2026-12-05"
+    },
+    {
+      "code": "VIPKOKOZA",
+      "expiry_date": "2026-12-05"
     }
   ],
   "allServers": [
