@@ -290,6 +290,10 @@
     {
       "code": "VIPOPOPO",
       "expiry_date": "2026-12-06"
+    },
+    {
+      "code": "VIPZHZHA",
+      "expiry_date": "2026-12-07"
     }
   ],
   "allServers": [
