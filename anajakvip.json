@@ -162,8 +162,8 @@
     "ip_udp": "175.100.126.177",
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
-    "uplimit": "1",
-    "dowlimit": "30",
+    "uplimit": "10",
+    "dowlimit": "10",
     "retry": "12",
     "rc_win": "196608"
   },
