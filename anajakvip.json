@@ -159,7 +159,7 @@
     "country": "Cambodia",
     "isPremium": true,
     "protocol": "udp",
-    "ip_udp": "85.155.149.116",
+    "ip_udp": "175.100.126.177",
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
     "uplimit": "1",
