@@ -162,9 +162,9 @@
     "ip_udp": "85.155.149.116",
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
-    "uplimit": "5",
-    "dowlimit": "5",
-    "retry": "5",
+    "uplimit": "1",
+    "dowlimit": "30",
+    "retry": "12",
     "rc_win": "196608"
   },
   {
