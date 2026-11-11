@@ -312,5 +312,14 @@
         }
       }
     }
+  },
+  {
+    "title": "HK METFONE FREE FAST",
+    "country": "Hong Kong",
+    "flag": "https://cdn-icons-png.flaticon.com/128/9906/9906479.png",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "ip:port": "hkfast.anajakvip.shop:443",
+    "v2ray_config": "vless://56996b32-4d7e-4bc3-be5d-8c6545d25a5f@172.64.151.167:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=hkfast.anajakvip.shop#HK%20%F0%9F%87%AD%F0%9F%87%B0%20METFONE%20FREE"
   }
 ]
