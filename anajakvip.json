@@ -135,6 +135,15 @@
     "v2ray_config": "vless://54559b72-bb08-4b76-a39d-b4f320fbec86@172.64.151.167:443?encryption=none&security=tls&sni=sganajakvipxzxz20270630.anajakvpnvip.filegear-sg.me&alpn=h2&type=xhttp&mode=packet-up&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20METFONE%20FREE%20NEW%20VIP"
   },
   {
+    "title": "SG METFONE FREE FAST",
+    "country": "Singapore",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197496.png",
+    "isPremium": true,
+    "protocol": "v2ray",
+    "ip:port": "sgupfast.anajakvip.shop:443",
+    "v2ray_config": "vless://caaa8f7c-3963-421d-ab53-cc63b9752e8c@172.64.151.167:80?path=%2F&security=none&encryption=none&host=sgupfast.anajakvip.shop&type=httpupgrade#SG%20%F0%9F%87%B8%F0%9F%87%AC%20VIP%20FREE%20TEST%203DAYS"
+  },
+  {
     "ip:port": "sgfast.anajakvip.shop:443",
     "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363064.png",
     "title": "SG - CELLCARD FREE FAST",
