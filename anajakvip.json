@@ -286,7 +286,7 @@
       "dns_server": "sgfast.anajakvip.shop",
       "secondary_dns_server": "sgfast.anajakvip.shop",
       "tunnel_domain": "nssg.anajakvip.shop",
-      "public_key": "b472f6487dd72cd7",
+      "public_key": "ddfcbcba0b399f71",
       "transport": "cottendns",
       "cottendns": {
         "encryption_method": 1,
