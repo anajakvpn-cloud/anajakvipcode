@@ -192,7 +192,7 @@
       "public_key": "2a8e0eb7c5a5e747",
       "transport": "cottendns",
       "cottendns": {
-        "config_preset": "tcp-survival",
+        "config_preset": "speed",
         "tunnel_mode": "cottenmax",
         "max": {
           "standby_domains": "nskh2.anajakvip.shop",
@@ -211,7 +211,7 @@
           "discovery_country": "kh"
         },
         "encryption_method": 1,
-        "transport_mode": "tcp",
+        "transport_mode": "auto",
         "delivery_mode": "txt",
         "qname_mode": "preset",
         "ip_mode": "preset",
@@ -274,9 +274,9 @@
       "transport": "cottendns",
       "cottendns": {
         "encryption_method": 1,
-        "config_preset": "tcp-survival",
+        "config_preset": "speed",
         "tunnel_mode": "cottenmax",
-        "transport_mode": "tcp",
+        "transport_mode": "auto",
         "delivery_mode": "preset",
         "qname_mode": "preset",
         "ip_mode": "preset",
@@ -323,9 +323,9 @@
       "transport": "cottendns",
       "cottendns": {
         "encryption_method": 1,
-        "config_preset": "tcp-survival",
+        "config_preset": "speed",
         "tunnel_mode": "cottenmax",
-        "transport_mode": "preset",
+        "transport_mode": "auto",
         "delivery_mode": "preset",
         "qname_mode": "preset",
         "ip_mode": "preset",
