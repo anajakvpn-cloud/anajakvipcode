@@ -225,6 +225,39 @@
     "ip:port": ""
   },
   {
+    "title": "KH SMART FREE TCP",
+    "country": "Cambodia",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
+    "isPremium": true,
+    "protocol": "dnstt",
+    "ip:port": "",
+    "dnstt": {
+      "dns_transport": "tcp",
+      "server": "mdkh.anajakvip.shop",
+      "dns_server": "mdkh.anajakvip.shop",
+      "secondary_dns_server": "mdkh.anajakvip.shop",
+      "tunnel_domain": "nsmdkh.anajakvip.shop",
+      "public_key": "242721b435631edc1c6d56d79d01c6a622e2cebeb1c3c4823a0b0cfa59545310",
+      "transport": "vaydns",
+      "vaydns": {
+        "type": "ssh",
+        "dnstt_compat": false,
+        "record_type": "txt",
+        "resolver_mode": "roundrobin",
+        "max_payload": 0,
+        "idle_timeout": 0,
+        "keepalive": 0
+      },
+      "ssh": {
+        "host": "127.0.0.1",
+        "port": 22,
+        "username": "heng",
+        "password": "River!Cobalt7Moon#42",
+        "private_key": ""
+      }
+    }
+  },
+  {
     "title": "VN SMART FREE MAX",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
