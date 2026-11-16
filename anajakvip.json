@@ -276,6 +276,40 @@
     }
   },
   {
+    "title": "VN SMART FREE TCP (2)",
+    "country": "Vietnam",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
+    "isPremium": true,
+    "protocol": "dnstt",
+    "ip:port": "",
+    "dnstt": {
+      "dns_transport": "tcp",
+      "server": "vnfast.anajakvip.shop",
+      "port": 22,
+      "dns_server": "vnfast.anajakvip.shop",
+      "secondary_dns_server": "8.8.8.8",
+      "tunnel_domain": "nsvn.anajakvip.shop",
+      "public_key": "d1250285a1b260c6ce48ece77de77fb2d310d03427edfb3b29fb8aef0b30ab1a",
+      "transport": "vaydns",
+      "vaydns": {
+        "type": "ssh",
+        "dnstt_compat": false,
+        "record_type": "txt",
+        "resolver_mode": "cache",
+        "max_payload": 0,
+        "idle_timeout": 0,
+        "keepalive": 0
+      },
+      "ssh": {
+        "host": "127.0.0.1",
+        "port": 22,
+        "username": "heng",
+        "password": "River!Cobalt7Moon#42",
+        "private_key": ""
+      }
+    }
+  },
+  {
     "title": "KH METFONE FREE LIGHT",
     "country": "Cambodia",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
