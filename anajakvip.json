@@ -177,54 +177,6 @@
     "rc_win": "196608"
   },
   {
-    "title": "KH SMART FREE MAX",
-    "country": "Cambodia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/15363/15363230.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "dnstt": {
-      "remote_dns": "8.8.8.8",
-      "remote_dns_fallback": "1.1.1.1",
-      "server": "khfast2.anajakvip.shop",
-      "dns_server": "khfast2.anajakvip.shop",
-      "secondary_dns_server": "khfast2.anajakvip.shop",
-      "tunnel_domain": "nskh2.anajakvip.shop",
-      "public_key": "2a8e0eb7c5a5e747",
-      "transport": "cottendns",
-      "cottendns": {
-        "config_preset": "speed",
-        "tunnel_mode": "cottenmax",
-        "max": {
-          "standby_domains": "nskh2.anajakvip.shop",
-          "failover_after_ms": 3000,
-          "safe_qname": 101,
-          "max_qname": 253,
-          "max_answer": 1232,
-          "max_path_window": 256,
-          "max_inflight": 256,
-          "fec_download_enabled": false,
-          "fec_data_shards": 4,
-          "fec_parity_shards": 1,
-          "session_idle_ms": 90000,
-          "hold_ms": 100,
-          "discovery_enabled": false,
-          "discovery_country": "kh"
-        },
-        "encryption_method": 1,
-        "transport_mode": "auto",
-        "delivery_mode": "txt",
-        "qname_mode": "preset",
-        "ip_mode": "preset",
-        "query_rate_limit": "off",
-        "query_rate_scope": "total",
-        "timing_mask": "off",
-        "background_scan_parallelism": 1,
-        "resolver_doh_path": "/dns-query"
-      }
-    },
-    "ip:port": ""
-  },
-  {
     "title": "KH SMART FREE TCP",
     "country": "Cambodia",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
@@ -290,43 +242,36 @@
     }
   },
   {
-    "title": "VN SMART FREE MAX",
+    "title": "VN SMART FREE TCP",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "isPremium": true,
     "protocol": "dnstt",
     "ip:port": "",
     "dnstt": {
+      "dns_transport": "tcp",
       "server": "vnfast.anajakvip.shop",
       "port": 22,
       "dns_server": "vnfast.anajakvip.shop",
       "secondary_dns_server": "vnfast.anajakvip.shop",
       "tunnel_domain": "nsvn.anajakvip.shop",
-      "public_key": "3d7544b794d1a16e",
-      "transport": "cottendns",
-      "cottendns": {
-        "encryption_method": 1,
-        "config_preset": "speed",
-        "tunnel_mode": "cottenmax",
-        "transport_mode": "auto",
-        "delivery_mode": "preset",
-        "qname_mode": "preset",
-        "ip_mode": "preset",
-        "query_rate_limit": "off",
-        "query_rate_scope": "total",
-        "timing_mask": "off",
-        "background_scan_parallelism": 1,
-        "resolver_doh_path": "/dns-query",
-        "max": {
-          "standby_domains": "",
-          "failover_after_ms": 3000,
-          "max_inflight": 256,
-          "max_path_window": 256,
-          "hold_ms": 500,
-          "fec_download_enabled": false,
-          "discovery_enabled": false,
-          "discovery_country": "vn"
-        }
+      "public_key": "d1250285a1b260c6ce48ece77de77fb2d310d03427edfb3b29fb8aef0b30ab1a",
+      "transport": "vaydns",
+      "vaydns": {
+        "type": "ssh",
+        "dnstt_compat": false,
+        "record_type": "txt",
+        "resolver_mode": "cache",
+        "max_payload": 0,
+        "idle_timeout": 0,
+        "keepalive": 0
+      },
+      "ssh": {
+        "host": "127.0.0.1",
+        "port": 22,
+        "username": "heng",
+        "password": "River!Cobalt7Moon#42",
+        "private_key": ""
       }
     }
   },
