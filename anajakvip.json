@@ -381,14 +381,13 @@
       "public_key": "MMW3O1GX0ZoE1j2ol88TnMTC0zqqdk838VL/+Bjj/+E=",
       "transport": "soar",
       "soar": {
-        "transport": "only",
+        "transport": "auto",
         "discovery": false,
         "max_inflight": 128,
         "max_path_window": 32,
         "max_streams": 128,
         "session_idle_seconds": 90,
-        "dial_timeout_seconds": 90,
-        "country": "KH"
+        "dial_timeout_seconds": 90
       }
     }
   }
