@@ -334,9 +334,9 @@
       "transport": "cottendns",
       "cottendns": {
         "encryption_method": 1,
-        "config_preset": "speed",
+        "config_preset": "survival",
         "tunnel_mode": "cottenmax",
-        "transport_mode": "auto",
+        "transport_mode": "tcp",
         "delivery_mode": "preset",
         "qname_mode": "preset",
         "ip_mode": "preset",
@@ -383,9 +383,9 @@
       "transport": "cottendns",
       "cottendns": {
         "encryption_method": 1,
-        "config_preset": "survival",
+        "config_preset": "tcp-survival",
         "tunnel_mode": "cottenmax",
-        "transport_mode": "preset",
+        "transport_mode": "tcp",
         "delivery_mode": "preset",
         "qname_mode": "preset",
         "ip_mode": "preset",
