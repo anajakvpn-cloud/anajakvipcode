@@ -172,7 +172,7 @@
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
     "uplimit": "10",
-    "dowlimit": "10",
+    "dowlimit": "3",
     "retry": "3",
     "rc_win": "196608"
   },
