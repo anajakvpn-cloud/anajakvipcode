@@ -405,5 +405,30 @@
         }
       }
     }
+  },
+  {
+    "title": "SMART FREE BEST",
+    "country": "Cambodia",
+    "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
+    "isPremium": true,
+    "protocol": "dnstt",
+    "ip:port": "",
+    "dnstt": {
+      "server": "sokhfast.anajakvip.shop",
+      "dns_server": "sokhfast.anajakvip.shop",
+      "secondary_dns_server": "sokhfast.anajakvip.shop",
+      "tunnel_domain": "nssokh.anajakvip.shop",
+      "public_key": "4Gm28ueWw/lNHemgYFp4hp8PVHTF6+XuIIaAsXdSew8=",
+      "transport": "soar",
+      "soar": {
+        "transport": "auto",
+        "discovery": false,
+        "max_inflight": 128,
+        "max_path_window": 32,
+        "max_streams": 128,
+        "session_idle_seconds": 90,
+        "dial_timeout_seconds": 90
+      }
+    }
   }
 ]
