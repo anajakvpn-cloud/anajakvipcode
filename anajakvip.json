@@ -415,11 +415,11 @@
       "public_key": "a1456f54a83f4930",
       "transport": "cottendns",
       "cottendns": {
-        "encryption_method": 1,
+        "encryption_method": 5,
         "config_preset": "speed",
         "tunnel_mode": "cottenmax",
         "transport_mode": "udp",
-        "delivery_mode": "txt-aaaa",
+        "delivery_mode": "all",
         "qname_mode": "preset",
         "ip_mode": "preset",
         "query_rate_limit": "off",
