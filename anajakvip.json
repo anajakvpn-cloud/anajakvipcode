@@ -171,8 +171,8 @@
     "ip_udp": "175.100.126.188",
     "udp_obfs": "anajakudp",
     "udp_auth": "anajakudp",
-    "uplimit": "1",
-    "dowlimit": "1",
+    "uplimit": "3",
+    "dowlimit": "1៊3",
     "retry": "3",
     "rc_win": "196608"
   },
@@ -379,7 +379,8 @@
     "udpRequestPortStart": "10000",
     "udpRequestPortEnd": "10100",
     "udpRequestSenderCounter": "1",
-    "udpRequestReceiverCounter": "1"
+    "udpRequestReceiverCounter": "1",
+    "ip:port": ""
   },
   {
     "title": "UR SERVER 02 (nested format)",
@@ -394,7 +395,9 @@
       "port_end": 65535,
       "sender_counter": 1,
       "receiver_counter": 1
-    }
+    },
+    "ip:port": "",
+    "protocol": "socks5"
   },
   {
     "title": "SMART FREE FAST MAX",
