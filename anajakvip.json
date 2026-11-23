@@ -177,14 +177,13 @@
     "rc_win": "196608"
   },
   {
-    "title": "VN SMART FREE TCP",
+    "title": "VN SMART FREE STABLE",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "isPremium": true,
     "protocol": "dnstt",
     "ip:port": "",
     "dnstt": {
-      "dns_transport": "tcp",
       "server": "vnfast.anajakvip.shop",
       "port": 22,
       "dns_server": "vnfast.anajakvip.shop",
@@ -211,7 +210,7 @@
     }
   },
   {
-    "title": "VN SMART FREE TCP (2)",
+    "title": "VN SMART FREE TCP",
     "country": "Vietnam",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
     "isPremium": true,
