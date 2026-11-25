@@ -177,73 +177,6 @@
     "rc_win": "196608"
   },
   {
-    "title": "VN SMART FREE STABLE",
-    "country": "Vietnam",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "vnfast.anajakvip.shop",
-      "port": 22,
-      "dns_server": "vnfast.anajakvip.shop",
-      "secondary_dns_server": "vnfast.anajakvip.shop",
-      "tunnel_domain": "nsvn.anajakvip.shop",
-      "public_key": "d1250285a1b260c6ce48ece77de77fb2d310d03427edfb3b29fb8aef0b30ab1a",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "ssh",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "cache",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      },
-      "ssh": {
-        "host": "127.0.0.1",
-        "port": 22,
-        "username": "heng",
-        "password": "River!Cobalt7Moon#42",
-        "private_key": ""
-      }
-    }
-  },
-  {
-    "title": "VN SMART FREE TCP",
-    "country": "Vietnam",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197473.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "dns_transport": "tcp",
-      "server": "vnfast.anajakvip.shop",
-      "port": 22,
-      "dns_server": "vnfast.anajakvip.shop",
-      "secondary_dns_server": "8.8.8.8",
-      "tunnel_domain": "nsvn.anajakvip.shop",
-      "public_key": "d1250285a1b260c6ce48ece77de77fb2d310d03427edfb3b29fb8aef0b30ab1a",
-      "transport": "vaydns",
-      "vaydns": {
-        "type": "ssh",
-        "dnstt_compat": false,
-        "record_type": "txt",
-        "resolver_mode": "cache",
-        "max_payload": 0,
-        "idle_timeout": 0,
-        "keepalive": 0
-      },
-      "ssh": {
-        "host": "127.0.0.1",
-        "port": 22,
-        "username": "heng",
-        "password": "River!Cobalt7Moon#42",
-        "private_key": ""
-      }
-    }
-  },
-  {
     "title": "KH METFONE FREE LIGHT",
     "country": "Cambodia",
     "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
@@ -251,45 +184,6 @@
     "protocol": "v2ray",
     "ip:port": "khfast2.anajakvip.shop:443",
     "v2ray_config": "{\n  \"dns\": {\n    \"hosts\": {\n      \"domain:googleapis.cn\": \"googleapis.com\",\n      \"dns.alidns.com\": [\n        \"223.5.5.5\",\n        \"223.6.6.6\",\n        \"2400:3200::1\",\n        \"2400:3200:baba::1\"\n      ],\n      \"dns.sse.cisco.com\": [\n        \"208.67.220.220\",\n        \"208.67.222.222\",\n        \"2620:119:35::35\",\n        \"2620:119:53::53\"\n      ],\n      \"dns.umbrella.com\": [\n        \"208.67.220.220\",\n        \"208.67.222.222\",\n        \"2620:119:35::35\",\n        \"2620:119:53::53\"\n      ],\n      \"one.one.one.one\": [\n        \"1.1.1.1\",\n        \"1.0.0.1\",\n        \"2606:4700:4700::1111\",\n        \"2606:4700:4700::1001\"\n      ],\n      \"1dot1dot1dot1.cloudflare-dns.com\": [\n        \"1.1.1.1\",\n        \"1.0.0.1\",\n        \"2606:4700:4700::1111\",\n        \"2606:4700:4700::1001\"\n      ],\n      \"dns.cloudflare.com\": [\n        \"162.159.61.8\",\n        \"172.64.41.8\",\n        \"2a06:98c1:52::8\",\n        \"2803:f800:53::8\"\n      ],\n      \"cloudflare-dns.com\": [\n        \"104.16.248.249\",\n        \"104.16.249.249\",\n        \"2606:4700::6810:f8f9\",\n        \"2606:4700::6810:f9f9\"\n      ],\n      \"engage.cloudflareclient.com\": [\n        \"162.159.192.1\",\n        \"2606:4700:d0::a29f:c001\"\n      ],\n      \"doh.pub\": [\n        \"1.12.12.12\",\n        \"120.53.53.53\"\n      ],\n      \"dot.pub\": [\n        \"1.12.12.12\",\n        \"120.53.53.53\"\n      ],\n      \"dns.google\": [\n        \"8.8.8.8\",\n        \"8.8.4.4\",\n        \"2001:4860:4860::8888\",\n        \"2001:4860:4860::8844\"\n      ],\n      \"dns.quad9.net\": [\n        \"9.9.9.9\",\n        \"149.112.112.112\",\n        \"2620:fe::fe\",\n        \"2620:fe::9\"\n      ],\n      \"dns.sb\": [\n        \"45.11.45.11\",\n        \"185.222.222.222\",\n        \"2a09::\",\n        \"2a11::\"\n      ],\n      \"common.dot.dns.yandex.net\": [\n        \"77.88.8.8\",\n        \"77.88.8.1\",\n        \"2a02:6b8::feed:0ff\",\n        \"2a02:6b8:0:1::feed:0ff\"\n      ]\n    },\n    \"servers\": [\n      \"1.1.1.1\",\n      {\n        \"address\": \"223.5.5.5\",\n        \"domains\": [\n          \"geosite:private\"\n        ],\n        \"skipFallback\": true,\n        \"tag\": \"domestic-dns_0_0\"\n      }\n    ],\n    \"tag\": \"dns-module\"\n  },\n  \"inbounds\": [\n    {\n      \"listen\": \"127.0.0.1\",\n      \"port\": 10808,\n      \"protocol\": \"socks\",\n      \"settings\": {\n        \"auth\": \"noauth\",\n        \"udp\": true,\n        \"userLevel\": 8\n      },\n      \"sniffing\": {\n        \"destOverride\": [\n          \"http\",\n          \"tls\",\n          \"quic\"\n        ],\n        \"enabled\": true,\n        \"routeOnly\": false\n      },\n      \"tag\": \"socks\"\n    }\n  ],\n  \"log\": {\n    \"loglevel\": \"warning\"\n  },\n  \"outbounds\": [\n    {\n      \"mux\": {\n        \"concurrency\": -1,\n        \"enabled\": false\n      },\n      \"protocol\": \"shadowsocks\",\n      \"settings\": {\n        \"servers\": [\n          {\n            \"address\": \"172.64.151.167\",\n            \"level\": 8,\n            \"method\": \"2022-blake3-aes-256-gcm\",\n            \"ota\": false,\n            \"password\": \"05fYlMvyYs5hF97I0JzNeJAurJde6fZbCQcadiOQINo=\",\n            \"port\": 2053\n          }\n        ]\n      },\n      \"streamSettings\": {\n        \"network\": \"xhttp\",\n        \"security\": \"tls\",\n        \"tlsSettings\": {\n          \"allowInsecure\": false,\n          \"serverName\": \"cottonkh.anajakvpn.filegear-sg.me\"\n        },\n        \"xhttpSettings\": {\n          \"host\": \"cottonkh.anajakvpn.filegear-sg.me\",\n          \"mode\": \"packet-up\",\n          \"path\": \"\"\n        }\n      },\n      \"tag\": \"proxy\"\n    },\n    {\n      \"protocol\": \"freedom\",\n      \"streamSettings\": {\n        \"network\": \"tcp\",\n        \"sockopt\": {\n          \"domainStrategy\": \"UseIP\"\n        }\n      },\n      \"tag\": \"direct\"\n    },\n    {\n      \"protocol\": \"blackhole\",\n      \"settings\": {\n        \"response\": {\n          \"type\": \"http\"\n        }\n      },\n      \"tag\": \"block\"\n    }\n  ],\n  \"remarks\": \"443-yaxaq1jd\",\n  \"routing\": {\n    \"domainStrategy\": \"AsIs\",\n    \"rules\": [\n      {\n        \"ip\": [\n          \"ext:geoip-only-cn-private.dat:private\"\n        ],\n        \"outboundTag\": \"direct\",\n        \"type\": \"field\"\n      },\n      {\n        \"domain\": [\n          \"geosite:private\"\n        ],\n        \"outboundTag\": \"direct\",\n        \"type\": \"field\"\n      },\n      {\n        \"outboundTag\": \"proxy\",\n        \"port\": \"0-65535\",\n        \"type\": \"field\"\n      },\n      {\n        \"inboundTag\": [\n          \"domestic-dns_0_0\"\n        ],\n        \"outboundTag\": \"direct\",\n        \"type\": \"field\"\n      },\n      {\n        \"inboundTag\": [\n          \"dns-module\"\n        ],\n        \"outboundTag\": \"proxy\",\n        \"type\": \"field\"\n      }\n    ]\n  }\n}"
-  },
-  {
-    "title": "SG SMART FREE MAX",
-    "country": "Singapore",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197496.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "sgfast.anajakvip.shop",
-      "dns_server": "sgfast.anajakvip.shop",
-      "secondary_dns_server": "sgfast.anajakvip.shop",
-      "tunnel_domain": "nssg.anajakvip.shop",
-      "public_key": "ddfcbcba0b399f71",
-      "transport": "cottendns",
-      "cottendns": {
-        "encryption_method": 1,
-        "config_preset": "survival",
-        "tunnel_mode": "cottenmax",
-        "transport_mode": "auto",
-        "delivery_mode": "txt-https",
-        "qname_mode": "preset",
-        "ip_mode": "preset",
-        "query_rate_limit": "off",
-        "query_rate_scope": "total",
-        "timing_mask": "off",
-        "background_scan_parallelism": 1,
-        "resolver_doh_path": "/dns-query",
-        "max": {
-          "standby_domains": "sgfast.anajakvip.shop,nssg.anajakvip.shop",
-          "failover_after_ms": 3000,
-          "max_inflight": 256,
-          "max_path_window": 256,
-          "hold_ms": 500,
-          "fec_download_enabled": false,
-          "discovery_enabled": false
-        }
-      }
-    }
   },
   {
     "title": "HK METFONE FREE FAST",
@@ -301,39 +195,6 @@
     "v2ray_config": "vless://56996b32-4d7e-4bc3-be5d-8c6545d25a5f@172.64.151.167:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=hkfast.anajakvip.shop#HK%20%F0%9F%87%AD%F0%9F%87%B0%20METFONE%20FREE"
   },
   {
-    "title": "KH SERVER 01",
-    "country": "Cambodia",
-    "flag": "https://flagcdn.com/w40/kh.png",
-    "isPremium": true,
-    "protocol": "udprequest",
-    "isUdpRequest": true,
-    "udpRequestServer": "36.37.133.248",
-    "udpRequestUsername": "heng",
-    "udpRequestPassword": "heng",
-    "udpRequestPortStart": "10000",
-    "udpRequestPortEnd": "10100",
-    "udpRequestSenderCounter": "1",
-    "udpRequestReceiverCounter": "1",
-    "ip:port": ""
-  },
-  {
-    "title": "KH SERVER 02 (nested format)",
-    "country": "Cambodia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
-    "isPremium": false,
-    "udp_request": {
-      "server": "36.37.133.248",
-      "username": "heng",
-      "password": "heng",
-      "port_start": 1,
-      "port_end": 65535,
-      "sender_counter": 1,
-      "receiver_counter": 1
-    },
-    "ip:port": "",
-    "protocol": "socks5"
-  },
-  {
     "title": "HK SMART FREE FAST2",
     "country": "Hong Kong",
     "flag": "https://cdn-icons-png.flaticon.com/128/9906/9906479.png",
@@ -343,46 +204,6 @@
     "local_port": 8080,
     "dns_resolver": "43.249.32.4:53",
     "ovpn": "client\ndev tun\nproto udp\nremote 127.0.0.1 8080\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ntun-mtu 1300\nmssfix 1000\ndata-ciphers AES-256-GCM:AES-128-GCM:CHACHA20-POLY1305\nauth SHA512\ncompress lz4-v2\nroute 43.249.32.4 255.255.255.255 net_gateway\nverb 3\n\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIDSDCCAjCgAwIBAgIUBFFx/dQ5cN/n68WrAY1J7okmzmAwDQYJKoZIhvcNAQEL\nBQAwFTETMBEGA1UEAwwKRmFzdEROUy1DQTAeFw0yNjExMTYwNDQ1NTJaFw0zNjEx\nMTMwNDQ1NTJaMBUxEzARBgNVBAMMCkZhc3RETlMtQ0EwggEiMA0GCSqGSIb3DQEB\nAQUAA4IBDwAwggEKAoIBAQDToEkmxURVQJVHlKsmAneC3JmYN6DKn5sOKyV0QtXa\nIh5jGMdMZ5kdFg4YO3gGRlPmlH+jtjRTbzIF15wYhwVDIR5MBtJkZffDkfAwcpPt\nburn2PGMHVHbJxpB8V95uGqsKe+zu6s6etAA6FvUru6/yEF/51k75hjrMJ2e54Sn\nJh8avO0nlCGuYRA2lkWH3FAeWLbsrHCKdLP0AFVXRR758AnkNfwLtrolHAijRDaI\nIWT3vtwcSY3dopLmf/8v5NHE2fOzUGqYKgTcQZ+wrNJBR0tZtNZR6vtUVFhZGPJ4\nQXaUSu7dWX+tcQWx8PsmNrptAsFJ6P7hS5jNlYDzeVejAgMBAAGjgY8wgYwwHQYD\nVR0OBBYEFPd5eTSW3fgejYFHwjh81GVoDo43MFAGA1UdIwRJMEeAFPd5eTSW3fge\njYFHwjh81GVoDo43oRmkFzAVMRMwEQYDVQQDDApGYXN0RE5TLUNBghQEUXH91Dlw\n3+frxasBjUnuiSbOYDAMBgNVHRMEBTADAQH/MAsGA1UdDwQEAwIBBjANBgkqhkiG\n9w0BAQsFAAOCAQEAfxh8T/xFeqPgu7Ux5sbbHwoqrYTqCUlso94e2mXuESa4wckt\nZ20mpV56K+KBQeIn1rj/qa7FZayiGCnqoW5d3JG8Ui+pdh/qB4Pep4p0YhNvaiHw\nG8WB7ZPIs5NAOShhPsQxyD/HBBDntrYKA9YRqgmui0RqUAstfgO9uIZTsn9VpWAf\nbFKbHiPCFMZO9qMQyg2zbBX2P6knPbWsvXWQRETn1CJXHXQdPIrMUSMGfTb1apg5\nliFo7QWoolb1CqLLYTtYw0QY9ZjppmWRYNnk1OA3NnouaLqVkPyp5Ku5lUDQSmsq\nB0qJNBhWIkMy94cvufOgcP+I/Hyddfq/b/TjDw==\n-----END CERTIFICATE-----\n</ca>\n\n<cert>\n-----BEGIN CERTIFICATE-----\nMIIDUzCCAjugAwIBAgIRAPsvNHth/kfcRsabgx4y9G8wDQYJKoZIhvcNAQELBQAw\nFTETMBEGA1UEAwwKRmFzdEROUy1DQTAeFw0yNjExMTYwNDQ1NTNaFw0yOTAyMTgw\nNDQ1NTNaMBExDzANBgNVBAMMBmNsaWVudDCCASIwDQYJKoZIhvcNAQEBBQADggEP\nADCCAQoCggEBALfcKsE3oQsyucvAU+BNIrBtAjKxv939M4NntxXTKnYQTVVFpF6y\nBO2BYpG1F1pTmmzfvmNiCUjTFOT35VQGjMh5tMI95IoZDkyFgKpErK+Vz0gdoxt0\nUiPkWuxi4xGsP6beaPhSiwpGLXtxeGnF9vkCG4HLbyJCJ4ffRcah3EbjxK7hEKgR\nihh3l6UIzzRPG6fV21SE4ZuUwMDJc4RzvEWRJmwV+DshSogkpxuq9o24Ni5OpCG5\nx0FoRF6731C7qYlfZqJxqn2Ebf0Z0/v7jFRd8zrMONfFIspIFUjbCrUPvi2B3Xny\n46dGeX/bm6OrOcRFVKdoiQzDu9X/L0tfCuMCAwEAAaOBoTCBnjAJBgNVHRMEAjAA\nMB0GA1UdDgQWBBQmye83u+l/nNJl+TrwMe9mTTzAqzBQBgNVHSMESTBHgBT3eXk0\nlt34Ho2BR8I4fNRlaA6ON6EZpBcwFTETMBEGA1UEAwwKRmFzdEROUy1DQYIUBFFx\n/dQ5cN/n68WrAY1J7okmzmAwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQD\nAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQA9pKBy1Kjrq2uhE7Wxn0XCOC+q0GqTuSZf\nxbH6lv5lt9XRw0pEUMOv9pkBJCh+B7RwUEa3nnpfx6BHFtySaskt+MpzgnMl/2Xh\nRAYDjjtMxNmfm98r4t6EaMv93D98rIL/9Nxi0QL7rGCkX4E/qOma7LwoH+TGeWyA\nqeSxqtU3eG32THDZyR0ygMHh56LM4fCnq7jLoWtk7H0CM1rOtxdVZuoMeoLS84hE\nL9SNRrYZOKXbOjtnWlxtchIz6Y9KXnZGtEYEAzpagIIfvGebYUlers4avCiIo+hg\nDHUnjhtuN3SLsP1l30bJ8RDDo8FKngqAJNF45DmjLbHba/lNRzMm\n-----END CERTIFICATE-----\n</cert>\n\n<key>\n-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC33CrBN6ELMrnL\nwFPgTSKwbQIysb/d/TODZ7cV0yp2EE1VRaResgTtgWKRtRdaU5ps375jYglI0xTk\n9+VUBozIebTCPeSKGQ5MhYCqRKyvlc9IHaMbdFIj5FrsYuMRrD+m3mj4UosKRi17\ncXhpxfb5AhuBy28iQieH30XGodxG48Su4RCoEYoYd5elCM80Txun1dtUhOGblMDA\nyXOEc7xFkSZsFfg7IUqIJKcbqvaNuDYuTqQhucdBaEReu99Qu6mJX2aicap9hG39\nGdP7+4xUXfM6zDjXxSLKSBVI2wq1D74tgd158uOnRnl/25ujqznERVSnaIkMw7vV\n/y9LXwrjAgMBAAECggEAGKgxH6prMYpC+n03gmw1y71CvzOxTH8JaoT9O7MPDbhP\n9rCZQ43SNVvVsT68/AMcQZ+b884Q+rA8LBzGp4cdWEFiKW6NeKu1jDOXNr5w/jc0\nDjLTTfpCjcexHeSBGTylaKaJI0xGk0EoFlb4VA8VeP18XOLAa7K9hG4/+Ex6sxLc\nPfArvbUl8nfqi4pPBqcEHJev64NZfCr30gdnaPvGCMAAcE4mt2W8GNy4DZNe0qw5\nA8XZ/NFTCcBa9Kf7r64K+eg4kGyR26c08Zxd1Y6fTVHsY4IAukYmymH4e5+RBxeI\nsZF4KRIgLeAz2sZo6cv3Sh7WyR8TP2zTsOkDBkW8iQKBgQDtqBX563biCjfuIp99\nvnRFBkt6vgZN7gNTBxg9IvDPJkBs1pof24zlTOYub9iPpIT75u4EA/FEaiON+huh\n3hDMyq2oizUNyalWG40mbcrtwEIFnf5ZnMBuu1CZroIqK6FD6+jLkYfowNbbSE4s\n+/+tl3q3mjty6QGqY9HS+6bSrQKBgQDGDRoXaQMPD58kH0QqFNScrdaPNwHajw7/\nL/FPEdBRKM9OiDayQkOyx7OJWkDIbY2l4BEV8iuqKRrOig5rMAgyPCtG8PWmVlN8\n/L7Sfbg9hyuFD9/0BPYqvJoEZYm0Y8he5xg39ihbzoLofghqt31g1LxfejucOi8W\nm/RUycyVzwKBgGuf9ivS7WiaNg/6z/2S9XaYzi/MxHAgPJMqIFj3bNRyvzRKz0tk\nEt94vrkC37DVUX/+aYWZ/3X7FxTh0gew2CzWEGTGfgU7cRtUqMxhZkfbDEsc7KXK\nbf73hx3BwKK2VXa77BXcVw8Z3XM6wGRwzq3fbqydBRUZ3i46vDfuzPKVAoGBAIvS\nHCWC4cH0SWn7GOiMpD2pDN02/HwMm43Vjws/jE5//Tt4NwVKevjwu/OwYCQgE+yT\nb/yKaAFN27sNBHjwBBlTGUqQOx0fvPl0hlOcpkHp9/OM7ZMdHZ22YRXRiZJtD7zQ\nceywQHXwKcNxlwegW0fNaOAPL55wBWZ0294wSdtJAoGBALnutYx9542p0cVpGXlz\n7MwVf3fF+xrIF8vMihO+Z7OerVrhWzYWo5cJ7NLrOc+L7eW26hTzoBKcwQcJmZXf\nLDCG6s7pmAceANEHvWPZQMpuGV3sWn6762nLYBe7A7bow7QrMVgt2I4Er5VVz03v\nqm7qUtuztiwv+0X2Lg/g4cRO\n-----END PRIVATE KEY-----\n</key>\n\n<tls-crypt>\n-----BEGIN OpenVPN Static key V1-----\nc23c108f8f617988cc0dc219d9793328\n2cc2b9d4f094864514c91b17f67d1cae\naebe8ea7bbe4f9f8a4991af161400fa7\ncc9c40bc49667d45f65339d6854c3fa1\n64f11e79a57e0893553cc4540f7b10c5\nc0824ff449f5bee029a35afc15231560\n0e74ebd17c129d88f768a7d154eecf69\nb370b2d62406349735a4c44fd571196b\n805bfb25d5c7e0c61b34cee83bf6642c\ne922dca4f5f502654b8070b78e2197c7\n2b7a005c2025c3fcbc3c1f78ed170b71\n951bd4ddb98dbad18ae818fe7d69483e\n6f898ab72977bb420b12f9ee095aabb0\n67192802ee45aa2e0bdab99950ab0579\n3117338350daef46e02e6a6a75e5b230\n886b386a5ee90b7d782ed203511da0a8\n-----END OpenVPN Static key V1-----\n</tls-crypt>\n"
-  },
-  {
-    "title": "SMART FREE FAST MAX",
-    "country": "Cambodia",
-    "flag": "https://cdn-icons-png.flaticon.com/128/197/197505.png",
-    "isPremium": true,
-    "protocol": "dnstt",
-    "ip:port": "",
-    "dnstt": {
-      "server": "khfast2.anajakvip.shop",
-      "port": 22,
-      "dns_server": "khfast2.anajakvip.shop",
-      "secondary_dns_server": "khfast2.anajakvip.shop",
-      "tunnel_domain": "nskh2.anajakvip.shop",
-      "public_key": "a1456f54a83f4930",
-      "transport": "cottendns",
-      "cottendns": {
-        "encryption_method": 1,
-        "config_preset": "speed",
-        "tunnel_mode": "cottenmax",
-        "transport_mode": "udp",
-        "delivery_mode": "txt-aaaa",
-        "qname_mode": "preset",
-        "ip_mode": "preset",
-        "query_rate_limit": "off",
-        "query_rate_scope": "resolver",
-        "timing_mask": "off",
-        "background_scan_parallelism": 1,
-        "resolver_doh_path": "/dns-query",
-        "max": {
-          "standby_domains": "",
-          "failover_after_ms": 3000,
-          "max_inflight": 256,
-          "max_path_window": 256,
-          "hold_ms": 500,
-          "fec_download_enabled": false,
-          "discovery_enabled": false
-        }
-      }
-    }
   },
   {
     "title": "SG SMART FREE FAST2",
