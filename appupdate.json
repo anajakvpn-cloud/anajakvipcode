@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "3.0.0",
-  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_3.0.0.apk",
-  "whatsNew": "- Fix Auto Update Server📥\n- Ultra Connect",
+  "versionCode": 26,
+  "versionName": "6.0.0",
+  "apkUrl": "https://gitlab.com/anajakvpn1/anajakvpn/-/raw/main/AnajakVPN_6.0.0.apk",
+  "whatsNew": "- Fix Auto Update Server📥\n- UI UPDATE \n- Ultra Connect\n- SMART FREE FAST\n- FIX BUGS\n- AUTO PAYMENT KHQR",
   "mandatory": true
 }
