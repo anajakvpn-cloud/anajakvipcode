@@ -1,11 +1,5 @@
-[
-  {
-    "ip:port": "cffq.pages.dev:2053",
-    "flag": "https://billzone.ababank.com/images/landing/merchant/metfone.png",
-    "title": "METFONE - FREE JP",
-    "country": "Japan",
-    "isPremium": false,
-    "protocol": "v2ray",
-    "v2ray_config": "vless://97514cec-cf70-42b1-9743-3f89122adc8e@172.64.151.167:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cffq.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cffq.pages.dev#Vless-SG"
-  }
-]
+{
+  "vipurl": "http://kimhoung-001-site1.itempurl.com/?list=vip",
+  "freeurl": "http://kimhoung-001-site1.itempurl.com/?list=free",
+  "free_bandwidth_mb": 200
+}
