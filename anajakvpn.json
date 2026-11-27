@@ -1,11 +1,11 @@
 [
   {
-    "ip:port": "94.72.100.161:80:80",
+    "ip:port": "cffq.pages.dev:2053",
     "flag": "https://billzone.ababank.com/images/landing/merchant/metfone.png",
-    "title": "METFONE - FREE US",
-    "country": "United Kingdom",
+    "title": "METFONE - FREE JP",
+    "country": "Japan",
     "isPremium": false,
     "protocol": "v2ray",
-    "v2ray_config": "vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@104.18.36.89:443?encryption=none&security=tls&sni=zero.csmaster.ggff.net&fp=chrome&type=ws&host=zero.csmaster.ggff.net&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vless-SG"
+    "v2ray_config": "vless://97514cec-cf70-42b1-9743-3f89122adc8e@172.64.151.167:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cffq.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cffq.pages.dev#Vless-SG"
   }
 ]
